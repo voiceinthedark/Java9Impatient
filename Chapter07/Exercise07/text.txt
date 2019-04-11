@@ -1,0 +1,5 @@
+This is a test file to search for words and their count
+the multiple lines are their just to prove success of operation.
+There is nothing wrong with adding more lines to the text file.
+A fourth line would make that clear.
+their pyres will light up the north
